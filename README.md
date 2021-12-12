@@ -2,7 +2,8 @@
 
 
 # Note:
-OS used for testing: Linux (However, task.bat has not been removed from the directory)
+OS used for testing: Linux
+
 Language: python v3.9.2
 
 npm version: v8.3.0
